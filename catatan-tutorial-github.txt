@@ -4,6 +4,8 @@
 	1. git checkout nama_branch
 -CEK PERUBAHAN FILE
 	1. git status
+-MENAMBAHKAN FILE
+	1. git add nama file
 -COMMIT KE BRANCH
 	1. git commit -m "pesan"
 -PUSH KE BRANCH
