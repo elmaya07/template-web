@@ -4,7 +4,18 @@
 	1. git checkout nama_branch
 -CEK PERUBAHAN FILE
 	1. git status
--COMMIT
+-COMMIT KE BRANCH
 	1. git commit -m "pesan"
 -PUSH KE BRANCH
 	1. git push origin head 	
+
+
+MEMBUAT PERUBAHAN/VERSI (COMMIT) KE BRANCH BARU
+
+	1. MENAMBAHKAN BRANCH: git branch -c "nama branch"
+	2. CEK BRANCH: git branch
+	3. MENGAKTIFKAN BRANCH BARU: git checkout nama_branch
+	4. CEK STATUS PERUBAHAN FILE: git status
+	5. MENAMBAHKAN FILE PERUBAHAN:  git add nama-file
+	6. COMMIT KE BRANCH: git commit -m "pesan/keterangan"
+	7. PUSH KE BRANCH: git push origin head 
