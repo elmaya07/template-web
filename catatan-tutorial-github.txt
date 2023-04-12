@@ -1,0 +1,10 @@
+-MENAMBAHKA BRANCH
+	1. git branch -c "nama branch"
+-MENGAKTIFKAN BRANCH
+	1. git checkout nama_branch
+-CEK PERUBAHAN FILE
+	1. git status
+-COMMIT
+	1. git commit -m "pesan"
+-PUSH KE BRANCH
+	1. git push origin head 	
